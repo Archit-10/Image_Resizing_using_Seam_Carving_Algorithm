@@ -14,7 +14,7 @@ Features
     User Input: Allows users to specify the desired width or height for resizing.
     Multiple Energy Functions: Supports different methods for calculating energy, such as gradient magnitude and color histograms.
 
-Demonstration
+<h1><strong>Demonstration</strong></h1>
 
 Before and after images showcasing the seam carving effect.
 
