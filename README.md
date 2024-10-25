@@ -22,18 +22,13 @@ Vertical Seam Removal
 
 <img src="https://github.com/user-attachments/assets/a5fd7851-9a96-49bb-a0a9-60b8972aff66" alt="Description of image" width="500"/>
 
-
-
 <img src="https://github.com/user-attachments/assets/c4277ee1-de84-40f8-8e04-36216566b1d8" alt="Resized Image" width="500"/>
-
-
 
 Horizontal Seam Removal
 
-![image](https://github.com/user-attachments/assets/1420848c-34c3-48de-a5de-2cad5600bb8d)
+<img src="https://github.com/user-attachments/assets/1420848c-34c3-48de-a5de-2cad5600bb8d" alt="Image 1" width="500"/>
 
-![image](https://github.com/user-attachments/assets/becca250-4f0c-4b67-be7d-e3f1f1896741)
-
+<img src="https://github.com/user-attachments/assets/becca250-4f0c-4b67-be7d-e3f1f1896741" alt="Image 2" width="500"/>
 
 Requirements
 
