@@ -20,14 +20,17 @@ Before and after images showcasing the seam carving effect.
 
 Vertical Seam Removal
 
-![image](https://github.com/user-attachments/assets/a5fd7851-9a96-49bb-a0a9-60b8972aff66=250x250)
+![image](https://github.com/user-attachments/assets/a5fd7851-9a96-49bb-a0a9-60b8972aff66)
 
 
-![image](https://github.com/user-attachments/assets/c4277ee1-de84-40f8-8e04-36216566b1d8=250x250)
+![image](https://github.com/user-attachments/assets/c4277ee1-de84-40f8-8e04-36216566b1d8)
 
 
+Horizontal Seam Removal
 
+![image](https://github.com/user-attachments/assets/1420848c-34c3-48de-a5de-2cad5600bb8d)
 
+![image](https://github.com/user-attachments/assets/becca250-4f0c-4b67-be7d-e3f1f1896741)
 
 
 Requirements
