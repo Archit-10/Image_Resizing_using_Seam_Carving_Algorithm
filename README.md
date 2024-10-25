@@ -5,7 +5,7 @@ Introduction
 Seam carving is a content-aware image resizing technique that reduces the size of an image by removing seams of pixels with the lowest energy. This technique helps preserve the most important features of the image while resizing.
 Features
 
-<h1><strong>Features</strong></h1>
+<h2><strong>Features</strong></h2>
 
     Energy Calculation: Computes the energy of each pixel in the image, enabling effective seam identification.
     Seam Identification: Identifies the seam (path of pixels) with the lowest energy to minimize distortion.
@@ -14,7 +14,7 @@ Features
     User Input: Allows users to specify the desired width or height for resizing.
     Multiple Energy Functions: Supports different methods for calculating energy, such as gradient magnitude and color histograms.
 
-<h1><strong>Demonstration</strong></h1>
+<h2><strong>Demonstration</strong></h2>
 
 Before and after images showcasing the seam carving effect.
 
