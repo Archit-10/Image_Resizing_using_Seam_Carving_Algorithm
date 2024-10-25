@@ -46,6 +46,7 @@ Usage Instructions
     bash
 
 git clone https://github.com/Archit-10/Image_Resizing_using_Seam_Carving_Algorithm.git
+
 cd Image_Resizing_using_Seam_Carving_Algorithm
 
 Install the required dependencies:
