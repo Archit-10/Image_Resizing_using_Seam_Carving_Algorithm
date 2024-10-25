@@ -18,26 +18,28 @@ Features
 
 Before and after images showcasing the seam carving effect.
 
-Vertical Seam Removal
+The input image is on the left and the result of the algorithm is on the right.
+
+<h3><strong>Vertical Seam Removal</strong></h3>
 
 <img src="https://github.com/user-attachments/assets/a5fd7851-9a96-49bb-a0a9-60b8972aff66" alt="Description of image" height="300"/>
 
 <img src="https://github.com/user-attachments/assets/c4277ee1-de84-40f8-8e04-36216566b1d8" alt="Resized Image" height="300"/>
 
-Horizontal Seam Removal
+<h3><strong>Horizontal Seam Removal</strong></h3>
 
 <img src="https://github.com/user-attachments/assets/1420848c-34c3-48de-a5de-2cad5600bb8d" alt="Image 1" width="400"/>
 
 <img src="https://github.com/user-attachments/assets/becca250-4f0c-4b67-be7d-e3f1f1896741" alt="Image 2" width="400"/>
 
 
-Requirements
+<h2><strong>Requirements</strong></h2>
 
     OpenCV: Used for image processing tasks such as extracting and generating images.
     Python or C++: For implementing the seam carving algorithm.
     No C++ STL: The implementation must avoid using the C++ Standard Template Library (STL).
 
-Usage Instructions
+<h2><strong>Usage Instructions</strong></h2>
 
     Clone the repository:
 
@@ -59,12 +61,12 @@ bash
 
     python seam_carving.py --input path/to/image.jpg --output path/to/resized_image.jpg --new_width 300
 
-Performance Metrics
+<h2><strong>Performance Metrics</strong></h2>
 
     Time Complexity: O(NM) for finding the optimal seam, where N is the height and M is the width of the image.
     Memory Usage: Memory usage is proportional to the size of the image, as additional space is required for energy and cost matrices.
 
-Challenges Faced
+<h2><strong>Challenges Faced</strong></h2>
 
 During development, I encountered challenges with seam identification in images with complex patterns. To address this, I implemented multiple energy functions to improve accuracy.
 Future Improvements
@@ -73,7 +75,7 @@ Future Improvements
     Extend the algorithm to handle video resizing.
     Implement an interactive GUI for real-time resizing.
 
-Testing
+<h2><strong>Testing</strong></h2>
 
 The implementation includes unit tests to validate the correctness of the energy calculation and seam removal processes. Performance benchmarks have been conducted to assess the algorithm's efficiency.
 Tech Stack
@@ -81,7 +83,7 @@ Tech Stack
     Programming Language: Python / C++
     Libraries: OpenCV
 
-Contributions
+<h2><strong>Contributions</strong></h2>
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
 
