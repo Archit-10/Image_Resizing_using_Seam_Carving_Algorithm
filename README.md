@@ -24,7 +24,8 @@ Vertical Seam Removal
 
 
 
-![image](https://github.com/user-attachments/assets/c4277ee1-de84-40f8-8e04-36216566b1d8)
+<img src="https://github.com/user-attachments/assets/c4277ee1-de84-40f8-8e04-36216566b1d8" alt="Resized Image" width="500"/>
+
 
 
 Horizontal Seam Removal
